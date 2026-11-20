@@ -1,0 +1,14 @@
+{
+  "searchTerms": [
+    "webscraping"
+  ],
+  "maxItems": 10,
+  "maxConcurrency": 3,
+  "maxRequestRetries": 4,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
